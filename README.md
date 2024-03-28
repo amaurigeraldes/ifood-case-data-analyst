@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Amaurí;Geraldes-red.svg)](https://www.linkedin.com/in/amauri-geraldes/)
+[![author](https://img.shields.io/badge/Author-Amaurí Geraldes-red.svg)](https://www.linkedin.com/in/amauri-geraldes/)
 [![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 
 # Case iFood - Analista de dados
@@ -93,7 +93,6 @@ Com base nessa comparação, o modelo de Regressão Logística foi escolhido par
 ## Como reproduzir o projeto
 
 O projeto foi desenvolvido utilizando o Python 3.11.8. Para reproduzir o projeto, crie um ambiente virtual com o Conda, ou ferramenta similar, com o Python 3.11.8 e instale as bibliotecas abaixo:
-
 -------------------- | ----------
       Package        |  Version  
 -------------------- | ----------
