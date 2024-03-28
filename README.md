@@ -94,15 +94,14 @@ Com base nessa comparação, o modelo de Regressão Logística foi escolhido par
 
 O projeto foi desenvolvido utilizando o Python 3.11.8. Para reproduzir o projeto, crie um ambiente virtual com o Conda, ou ferramenta similar, com o Python 3.11.8 e instale as bibliotecas abaixo:
 
-+----------------------+-----------+
-|      Package         |  Version  |
-+----------------------+-----------+
-| Imbalanced-Learn     |    0.12.0 |
-| Matplotlib           |     3.8.3 |
-| NumPy                |    1.25.2 |
-| Pandas               |     1.5.3 |
-| Scikit-Learn         |     1.4.1 |
-| Seaborn              |    0.12.2 |
-+----------------------+-----------+
+-------------------- | ----------
+      Package        |  Version  
+-------------------- | ----------
+Imbalanced-Learn     |     0.12.0
+Matplotlib           |      3.8.3
+NumPy                |     1.25.2
+Pandas               |      1.5.3
+Scikit-Learn         |      1.4.1
+Seaborn              |     0.12.2
 
 Essas são as bibliotecas principais utilizadas no projeto. O relatório foi gerado com a biblioteca [ydata-profiling](https://github.com/ydataai/ydata-profiling), instale-a se quiser reproduzir o relatório. 
