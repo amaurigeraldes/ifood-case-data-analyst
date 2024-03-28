@@ -12,7 +12,7 @@ Projeto desenvolvido com base no case proposto para o processo seletivo para Ana
 Descrição completa do case [aqui](case/README.md).
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/flsbustamante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/amauri-geraldes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ## Objetivos
