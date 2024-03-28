@@ -7,7 +7,7 @@ Considere uma empresa bem estabelecida que atua no setor de varejo de alimentos.
 
 ![pairplot](images/pairplot_clusters.png)
 
-Projeto desenvolvido com base no case proposto para o processo seletivo para Analista de Dados do iFood disponível [neste repositório](https://github.com/ifood/ifood-data-business-analyst-test).
+Projeto de análise descritiva de Ciência de Dados desenvolvido com base no case proposto para o processo seletivo para Analista de Dados do iFood disponível [neste repositório](https://github.com/ifood/ifood-data-business-analyst-test).
 
 Descrição completa do case [aqui](case/README.md).
 
@@ -17,9 +17,9 @@ Descrição completa do case [aqui](case/README.md).
 
 ## Objetivos
 
-O objetivo deste projeto é mostrar aos alunos como estruturar um projeto para um processo seletivo que foi aplicado na vida real.
+O objetivo deste projeto é mostrar de forma estruturada as etapas de análise exploratória dos dados, de pré-processamento, de clusterização inclusive utilizando o processo PCA, demonstrando metodologia para efetuar a comparação, a escolha e a otimização de Modelos de Classificação para a segmentação de clientes.
 
-Durante o curso, mostrei a importância de realizar o pré-processamento dos dados, bem como a importância de se realizar a análise exploratória dos dados. Muito foi discutido sobre o que deve ser apresentado para em um documento técnico e o que deve ser apresentado em uma apresentação para um público não técnico.
+Preparação de documentos afim de efetuar a apresentação de insights e dos resultados do estudo tanto para um público técnico quanto não técnico.
 
 Objetivos detalhados:
 
