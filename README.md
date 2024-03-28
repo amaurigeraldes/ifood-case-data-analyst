@@ -17,9 +17,9 @@ Descrição completa do case [aqui](case/README.md).
 
 ## Objetivos
 
-O objetivo deste projeto é mostrar de forma estruturada as etapas de análise exploratória dos dados, de pré-processamento, de clusterização inclusive utilizando o processo PCA, demonstrando metodologia para efetuar a comparação, a escolha e a otimização de Modelos de Classificação para a segmentação de clientes.
+O objetivo deste projeto é mostrar de forma estruturada as etapas de análise exploratória dos dados, de pré-processamento, de clusterização inclusive utilizando o processo PCA, determinação do melhor número de clusters, demonstrando metodologia para efetuar a comparação, a escolha e a otimização de Modelos de Classificação para a segmentação de clientes, otimizando os recursos da empresa para as próximas campanhas de marketing.
 
-Preparação de documentos afim de efetuar a apresentação de insights e dos resultados do estudo tanto para um público técnico quanto não técnico.
+Preparação de documentação, apresentação de insights e resultados dos estudos realizados tanto para um público técnico quanto não técnico.
 
 Objetivos detalhados:
 
